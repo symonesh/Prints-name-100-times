@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h> 
+void main()
+{
+int x;
+name:
+x+=1;
+printf("Saurav");
+if (x<100)
+goto
+name;
+return 0 ;
+}
